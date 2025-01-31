@@ -1,18 +1,18 @@
 # CriptoScript
 
-CriptoScript é um programa de criptografia e descriptografia de texto e arquivos com criptografia simétrica. Desenvolvido com PySide6 e `cryptography`, ele permite proteger dados de maneira simples.
+CriptoScript is a program for encrypting and decrypting text and files with symmetric encryption. Developed with PySide6 and `cryptography`, it allows you to protect data in a simple way.
 
-## Funcionalidades
+## Features
 
-- Criptografar e descriptografar texto e arquivos.
-- Criar ou gerar automaticamente uma chave secreta.
+- Encrypt and decrypt text and files.
+- Create or automatically generate a secret key.
 
-## Como Usar
+## How to Use
 
-1. **Iniciar**: Execute o arquivo `main.py`.
-2. **Criptografar/Descriptografar**:
-    - No menu "Arquivo", escolha a opção "Criptografar" ou "Descriptografar".
-    - Insira ou gere a chave secreta.
-    - Clique em "Criptografar" ou "Descriptografar".
+1. **Start**: Run the `main.py` file.
+2. **Encrypt/Decrypt**:
+   - In the "File" menu, choose the "Encrypt" or "Decrypt" option.
+   - Enter or generate the secret key.
+   - Click "Encrypt" or "Decrypt".
 
-Feito com carinho por Miguel Cosme Costa.
+Made with love by Miguel Cosme Costa.
